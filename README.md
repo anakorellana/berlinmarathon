@@ -23,7 +23,7 @@ The goal is to able to use maps interactively, being able to move the marker wit
 <h2>License</h2>
 This is an open source project.Enjoy!
 
-<img src="sreenshotmaps.png" height="300"/>
+<img src="screenshotmaps.png" height="300"/>
 
 
 
